@@ -1,0 +1,12 @@
+{
+  "model_name": "krieger",
+  "handling": {
+    "fMass": 1250.0,
+    "fSteeringLock": 40.0
+  },
+  "wheelbase_m": 2.598646402359009,
+  "tested_game_build": "1.0.1158.16",
+  "notes": [
+    "Stock Krieger calibration; modified handling is unsupported."
+  ]
+}

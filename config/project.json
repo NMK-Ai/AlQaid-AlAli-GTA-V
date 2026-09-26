@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "gameDirectory": null,
+  "gameExecutable": "GTA5_Enhanced.exe",
+  "steamExecutable": null,
+  "steamAppId": "3240220",
+  "wslDistribution": "FrogPilotGTA",
+  "linuxUser": "frogpilot",
+  "frogpilot": {
+    "repository": "https://github.com/FrogAi/FrogPilot.git",
+    "commit": "f8fb0668ed7fd13caf5a21e1ac27f6378df1b37f"
+  },
+  "ubuntu": {
+    "url": "https://releases.ubuntu.com/24.04.5/ubuntu-24.04.5-wsl-amd64.wsl",
+    "sha256": "bb415d824822c4b878125729af451a5d18fb13d1cf5cbed9a7393ad64ac6039e"
+  },
+  "modelProfile": "macrostiff",
+  "buildJobs": 4,
+  "elevateControls": false,
+  "uiScale": 0.75
+}

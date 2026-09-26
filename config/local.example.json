@@ -1,0 +1,7 @@
+{
+  "gameDirectory": "D:\\SteamLibrary\\steamapps\\common\\Grand Theft Auto V Enhanced",
+  "steamExecutable": "C:\\Program Files (x86)\\Steam\\steam.exe",
+  "wslDistribution": "FrogPilotGTA",
+  "buildJobs": 4,
+  "elevateControls": false
+}

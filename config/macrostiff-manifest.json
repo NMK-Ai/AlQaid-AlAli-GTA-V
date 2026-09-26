@@ -1,0 +1,29 @@
+{
+  "revision": "7f2e85df05f7442efeddbe670f210daf61c432c3",
+  "files": [
+    {
+      "name": "driving_policy.onnx",
+      "sha256": "4cf2023d6742c20aac7cecbf520afe370a64bcf5efdcf3531b1b128f9dfa3cc8",
+      "git_blob": "2de4960e04722224620e6de78cbb2391987ee036",
+      "bytes": 13926324
+    },
+    {
+      "name": "driving_policy_metadata.pkl",
+      "sha256": "f300f1ce0206710bd842ac7f3dba7f82a5fb5d9ee397d7e4ca7a93d2ab5c1161",
+      "git_blob": "9b31c7b732969fd5b61c673758bb5bddec5034bb",
+      "bytes": 315
+    },
+    {
+      "name": "driving_vision.onnx",
+      "sha256": "1dc66bc06f250b577653ccbeaa2c6521b3d46749f601d0a1a366419e929ca438",
+      "git_blob": "902f1dd344816d88096afc74feed98598833c177",
+      "bytes": 46271942
+    },
+    {
+      "name": "driving_vision_metadata.pkl",
+      "sha256": "a2be39088d38550e818f5ac1c6300a64605ba0bd0676a27fe7bbea9fddae90a1",
+      "git_blob": "9aa8bf83938dda522b386865832e88ff6b2c5510",
+      "bytes": 508
+    }
+  ]
+}
